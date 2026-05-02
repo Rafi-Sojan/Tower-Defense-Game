@@ -26,7 +26,10 @@ It demonstrates core game development concepts such as:
 * 🧱 Basic game architecture using C++
 
 ---
+## 🖼️ Screenshots
 
+![Gamescreen](assets/screenshots/gamescreen.png)
+![Tower Placement](screenshots/play-window.png)
 ---
 
 ## ⚙️ Tech Stack
@@ -131,5 +134,3 @@ No license specified yet.
 
 ---
 
-
----
