@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{17006A57-6336-416F-A169-B2FC77AED04D}|tower-defense-main\\tower-defense-main.vcxproj|D:\\AI PROJECTS\\C\u002B\u002B\\Tower-Defense-Game\\tower-defense-main\\tower-defense-main\\game-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{17006A57-6336-416F-A169-B2FC77AED04D}|tower-defense-main\\tower-defense-main.vcxproj|solutionrelative:tower-defense-main\\game-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17006A57-6336-416F-A169-B2FC77AED04D}|tower-defense-main\\tower-defense-main.vcxproj|C:\\Libraries\\tmxlite-master (1)\\tmxlite-master\\tmxlite\\src\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +30,17 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Libraries\\tmxlite-master (1)\\tmxlite-master\\tmxlite\\src\\Map.cpp",
+              "ToolTip": "C:\\Libraries\\tmxlite-master (1)\\tmxlite-master\\tmxlite\\src\\Map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T20:54:56.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
