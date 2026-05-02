@@ -28,7 +28,7 @@ It demonstrates core game development concepts such as:
 ---
 ## 🖼️ Screenshots
 
-![Gamescreen](screenshots/gamescreen.png)
+![Gamescreen](screenshots/game-screen.png)
 ![Tower Placement](screenshots/play-window.png)
 ---
 
