@@ -27,16 +27,6 @@ It demonstrates core game development concepts such as:
 
 ---
 
-## 🖼️ Screenshots / Demo
-
-*(Add screenshots here — strongly recommended)*
-
-Examples:
-
-* Gameplay screen
-* Tower placement
-* Enemy movement
-
 ---
 
 ## ⚙️ Tech Stack
@@ -81,7 +71,8 @@ git clone https://github.com/Rafi-Sojan/Tower-Defense-Game.git
 | Action          | Input       |
 | --------------- | ----------- |
 | Place Tower     | Left Click  |
-| Remove / Cancel | Right Click |
+| Toggle Tower    |     L       |   
+| Upgrade window  | Right Click |
 | Interact        | Mouse       |
 
 ---
@@ -95,7 +86,7 @@ Tower-Defense-Game/
 │   ├── Source.cpp        # Main source file
 │   ├── *.vcxproj         # Project configuration
 │   ├── *.filters
-│   └── assets / resources (if present)
+│   └── assets
 │
 ├── Tower-Defense-Game.sln
 ├── README.md
