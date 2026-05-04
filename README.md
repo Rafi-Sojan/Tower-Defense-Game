@@ -1,10 +1,10 @@
-# 🏹 Tower Defense Game
+#  Tower Defense Game
 
 A **tower defense game** built using **C++17** and **SFML**, focusing on real-time gameplay, enemy movement, and basic tower mechanics.
 
 ---
 
-## 🎮 Overview
+## Overview
 
 This project is a standalone implementation of a tower defense game where the player defends against enemy waves by placing towers strategically on a map.
 
@@ -17,31 +17,31 @@ It demonstrates core game development concepts such as:
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🛡️ Tower placement system
-* 👾 Enemy movement and path-following
-* 🎯 Real-time rendering using SFML
-* 🖱️ Mouse-based interaction
-* 🧱 Basic game architecture using C++
+*  Tower placement system
+*  Enemy movement and path-following
+*  Real-time rendering using SFML
+*  Mouse-based interaction
+*  Basic game architecture using C++
 
 ---
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Gamescreen](screenshots/game-screen.png)
 ![Tower Placement](screenshots/play-window.png)
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Language:** C++17
 * **Graphics Library:** SFML
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 * C++17 compatible compiler
 * SFML installed and configured
@@ -49,7 +49,7 @@ It demonstrates core game development concepts such as:
 
 ---
 
-### 🪟 Running the Project (Visual Studio)
+###  Running the Project (Visual Studio)
 
 1. Clone the repository:
 
@@ -69,7 +69,7 @@ git clone https://github.com/Rafi-Sojan/Tower-Defense-Game.git
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action          | Input       |
 | --------------- | ----------- |
@@ -80,7 +80,7 @@ git clone https://github.com/Rafi-Sojan/Tower-Defense-Game.git
 
 ---
 
-## 📁 Project Structure (Current)
+## Project Structure (Current)
 
 ```id="4jqdhh"
 Tower-Defense-Game/
@@ -98,7 +98,7 @@ Tower-Defense-Game/
 
 ---
 
-## 🧠 Notes
+##  Notes
 
 * This project is currently structured around a **Visual Studio solution**
 * Some files (e.g., `.vcxproj`, `.filters`) are IDE-specific
@@ -106,31 +106,4 @@ Tower-Defense-Game/
 
 ---
 
-## 🚧 Future Improvements
-
-* Better project structure (separating source and assets)
-* Cross-platform support (Linux/Ubuntu)
-* Advanced enemy AI
-* Tower upgrades and abilities
-* Improved UI and game polish
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the repository and improve the project.
-
----
-
-## 📜 License
-
-No license specified yet.
-
----
-
-## 👤 Author
-
-**Rafi Sojan**
-
----
 
